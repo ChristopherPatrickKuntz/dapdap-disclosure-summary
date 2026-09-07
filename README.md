@@ -1,10 +1,12 @@
 # DapDap -- Responsible Disclosure Record
 
+> **Historical summary — documentation updated 2026-09-07.** The [canonical DapDap disclosure repository](https://github.com/ChristopherPatrickKuntz/dapdap-responsible-disclosure) records public disclosure on 2026-05-18. This summary preserves the original 2026-02-17 notification record. No newer vendor outcome is recorded in this summary.
+
 ## Advisory ID: CPK-2026-004
 
 **Target:** [DapDap](https://dapdap.net) -- Multi-chain DeFi Aggregator
 **Severity:** Critical
-**Status:** Disclosed -- Awaiting Vendor Response
+**Status:** Historical summary; public disclosure recorded on 2026-05-18
 **Disclosure Date:** 2026-02-17
 
 ---
@@ -28,10 +30,10 @@ The finding was reported to the DapDap team via their published contacts on the 
 
 ## What Is NOT Disclosed Here
 
-In accordance with responsible disclosure best practices, the specific technical details of the vulnerability -- including affected code, service identifiers, and proof-of-concept -- are **withheld from this public record** until:
+In accordance with responsible disclosure best practices, the specific technical details of the vulnerability -- including affected code, service identifiers, and proof-of-concept -- were **withheld from the original public record** until:
 
-1. The vendor has remediated the vulnerabilities, **or**
-2. The 90-day disclosure deadline has passed
+1. The vendor had remediated the vulnerabilities, **or**
+2. The 90-day disclosure deadline had passed
 
 This follows industry standard practice consistent with [Google Project Zero](https://googleprojectzero.blogspot.com/p/vulnerability-disclosure-faq.html), [CERT/CC](https://vuls.cert.org/confluence/display/Wiki/Vulnerability+Disclosure+Policy), and [Trail of Bits](https://blog.trailofbits.com/2024/04/15/5-reasons-to-strive-for-better-disclosure-processes/) disclosure policies.
 
@@ -41,8 +43,7 @@ This follows industry standard practice consistent with [Google Project Zero](ht
 |------|-------|
 | 2026-02-17 | Vulnerabilities discovered and verified |
 | 2026-02-17 | Advisory submitted to DapDap team |
-| 2026-05-18 | Disclosure deadline (90 days) |
-| -- | *Updates will be posted here as the disclosure progresses* |
+| 2026-05-18 | Disclosure deadline (90 days); public disclosure recorded in the canonical repository |
 
 ## About CPK Solutions
 
@@ -54,4 +55,4 @@ All assessments referenced in this record were conducted passively using only pu
 
 ---
 
-*This record exists solely to establish a timestamped public record of responsible disclosure. Full technical details will be published after the disclosure deadline or vendor remediation, whichever comes first.*
+*This historical summary establishes a timestamped public record of the original responsible disclosure. Publication updates are recorded in the canonical repository linked above.*
